@@ -1,0 +1,21 @@
+HOUSEHOLD (CLEANING SUPPLY):
+1. Detergent (Powder): Quantity = 80kg, Price = ₹80/kg
+2. Detergent (Liquid): Quantity = 60L, Price = ₹200/L
+3. Floor Cleaner: Quantity = 50L, Price = ₹150/L
+4. Dishwashing Liquid: Quantity = 40L, Price = ₹100/L
+5. Toilet Cleaner: Quantity = 40L, Price = ₹120/L
+6. Glass Cleaner: Quantity = 20L, Price = ₹150/L
+7. All-Purpose Cleaner: Quantity = 30L, Price = ₹180/L
+8. Scrub Pads: Quantity = 100 pieces, Price = ₹20/piece
+9. Dustbin Liners: Quantity = 150 packs, Price = ₹50/pack
+10. Air Fresheners: Quantity = 50 cans, Price = ₹200/can
+11. Sponges: Quantity = 100 pieces, Price = ₹15/piece
+12. Surface Wipes: Quantity = 100 packs, Price = ₹80/pack
+13. Mops: Quantity = 40 pieces, Price = ₹500/piece
+14. Cleaning Cloths: Quantity = 60 packs, Price = ₹120/pack
+15. Broomsticks: Quantity = 50 pieces, Price = ₹150/piece
+16. Garbage Bags: Quantity = 200 packs, Price = ₹60/pack
+17. Bleach: Quantity = 40L, Price = ₹100/L
+18. Laundry Brushes: Quantity = 80 pieces, Price = ₹70/piece
+19. Toilet Brushes: Quantity = 100 pieces, Price = ₹200/piece
+20. Disinfectants: Quantity = 40L, Price = ₹150/L

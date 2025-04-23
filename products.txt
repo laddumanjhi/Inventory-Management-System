@@ -1,0 +1,219 @@
+Bread|50|100|Bakery Products
+Croissants|40|50|Bakery Products
+Muffins|30|60|Bakery Products
+Cakes|500|30|Bakery Products
+Cookies|300|50|Bakery Products
+Bagels|35|40|Bakery Products
+Doughnuts|40|40|Bakery Products
+Pizza Base|60|20|Bakery Products
+Puff Pastry|250|15|Bakery Products
+Brownies|400|20|Bakery Products
+Buns|25|80|Bakery Products
+Breadsticks|70|30|Bakery Products
+Tarts|450|10|Bakery Products
+Danish Pastries|50|20|Bakery Products
+Rolls|25|40|Bakery Products
+Cupcakes|40|30|Bakery Products
+Flatbread|60|25|Bakery Products
+Pretzels|300|15|Bakery Products
+Scones|30|20|Bakery Products
+Biscuits (Bakery)|30|40|Bakery Products
+Rice|70|200|Dry Goods
+Wheat Flour|40|150|Dry Goods
+Pulses (Lentils)|80|100|Dry Goods
+Sugar|50|100|Dry Goods
+Salt|20|80|Dry Goods
+Dry Spices|300|20|Dry Goods
+Cornflakes|150|100|Dry Goods
+Oats|120|80|Dry Goods
+Pasta|90|70|Dry Goods
+Noodles|40|150|Dry Goods
+Semolina|50|50|Dry Goods
+Barley|45|40|Dry Goods
+Chickpeas|80|60|Dry Goods
+Millet|70|50|Dry Goods
+Quinoa|250|30|Dry Goods
+Vermicelli|60|40|Dry Goods
+Breadcrumbs|150|30|Dry Goods
+Tapioca|100|20|Dry Goods
+Popcorn Kernels|80|40|Dry Goods
+Dried Beans|90|60|Dry Goods
+Chips|20|200|Snacks
+Biscuits|30|150|Snacks
+Namkeen|200|80|Snacks
+Popcorn|50|100|Snacks
+Chocolates|100|100|Snacks
+Candy|300|50|Snacks
+Energy Bars|200|50|Snacks
+Nachos|150|40|Snacks
+Crackers|70|60|Snacks
+Peanuts|100|30|Snacks
+Wafers|20|100|Snacks
+Trail Mix|250|30|Snacks
+Pretzels (Snack)|300|15|Snacks
+Salted Cashews|700|20|Snacks
+Almonds|800|50|Snacks
+Cheese Puffs|250|40|Snacks
+Sweet Corn Snack|30|30|Snacks
+Spicy Mixes|300|25|Snacks
+Sesame Sticks|150|20|Snacks
+Granola Bars|100|50|Snacks
+Detergent (Powder)|80|80|Household Cleaning
+Detergent (Liquid)|200|60|Household Cleaning
+Floor Cleaner|150|50|Household Cleaning
+Dishwashing Liquid|100|40|Household Cleaning
+Toilet Cleaner|120|40|Household Cleaning
+Glass Cleaner|150|20|Household Cleaning
+All-Purpose Cleaner|180|30|Household Cleaning
+Scrub Pads|20|100|Household Cleaning
+Dustbin Liners|50|150|Household Cleaning
+Air Fresheners|200|50|Household Cleaning
+Sponges|15|100|Household Cleaning
+Surface Wipes|80|100|Household Cleaning
+Mops|500|40|Household Cleaning
+Cleaning Cloths|120|60|Household Cleaning
+Broomsticks|150|50|Household Cleaning
+Garbage Bags|60|200|Household Cleaning
+Bleach|100|40|Household Cleaning
+Laundry Brushes|70|80|Household Cleaning
+Toilet Brushes|200|100|Household Cleaning
+Disinfectants|150|40|Household Cleaning
+Toilet Paper|30|200|Paper Products
+Tissues|20|150|Paper Products
+Paper Towels|40|120|Paper Products
+Napkins|25|80|Paper Products
+Hand Towels|70|50|Paper Products
+Table Mats (Paper)|150|40|Paper Products
+Paper Plates|50|100|Paper Products
+Paper Cups|40|100|Paper Products
+Wrapping Paper|70|60|Paper Products
+Baking Paper|80|50|Paper Products
+Toilet Seat Covers|100|40|Paper Products
+Cardstock Sheets|150|30|Paper Products
+Disposable Paper Masks|50|100|Paper Products
+Sticky Notes|30|150|Paper Products
+Envelopes|40|80|Paper Products
+Paper Trays|100|50|Paper Products
+Food Wraps|120|40|Paper Products
+Cartons|150|60|Paper Products
+Kraft Paper|100|50|Paper Products
+Paper Gift Bags|80|70|Paper Products
+Laundry Detergent (Powder)|90|80|Laundry Supplies
+Laundry Detergent (Liquid)|250|60|Laundry Supplies
+Fabric Softener|200|40|Laundry Supplies
+Bleach (Laundry)|120|40|Laundry Supplies
+Laundry Stain Remover|150|20|Laundry Supplies
+Detergent Pods|300|40|Laundry Supplies
+Laundry Bars|70|80|Laundry Supplies
+Oxygen Bleach Powder|250|25|Laundry Supplies
+Fragrance Boosters|400|30|Laundry Supplies
+Laundry Hampers|500|50|Laundry Supplies
+Drying Racks|1000|30|Laundry Supplies
+Washing Machine Cleaner|250|40|Laundry Supplies
+Starch Sprays|150|30|Laundry Supplies
+Laundry Nets|150|60|Laundry Supplies
+Fabric Shaver|300|30|Laundry Supplies
+Lint Rollers|50|100|Laundry Supplies
+Color Catcher Sheets|200|40|Laundry Supplies
+Washing Balls|150|30|Laundry Supplies
+Anti-Microbial Additives|300|20|Laundry Supplies
+Shampoo|200|80|Personal Care
+Conditioner|250|60|Personal Care
+Soap|50|200|Personal Care
+Face Wash|300|100|Personal Care
+Moisturizer|400|50|Personal Care
+Lip Balm|100|120|Personal Care
+Deodorant|250|80|Personal Care
+Body Lotion|350|50|Personal Care
+Hair Oil|200|100|Personal Care
+Face Masks|150|60|Personal Care
+Hair Serums|400|40|Personal Care
+Hand Sanitizer|100|100|Personal Care
+Eye Cream|500|30|Personal Care
+Nail Polish|150|80|Personal Care
+Makeup Remover|300|50|Personal Care
+Body Wash|200|80|Personal Care
+Sunscreen|350|50|Personal Care
+Hair Spray|400|40|Personal Care
+Perfume|600|30|Personal Care
+Beard Oil|300|40|Personal Care
+Baby Cereal|200|100|Baby Food & Kids' Snacks
+Infant Formula|500|50|Baby Food & Kids' Snacks
+Baby Food Pouches|150|80|Baby Food & Kids' Snacks
+Baby Snacks|100|60|Baby Food & Kids' Snacks
+Kids' Juice Boxes|60|100|Baby Food & Kids' Snacks
+Yogurt for Babies|120|40|Baby Food & Kids' Snacks
+Fruit Purees|180|50|Baby Food & Kids' Snacks
+Rice Rusks|150|70|Baby Food & Kids' Snacks
+Teething Biscuits|100|60|Baby Food & Kids' Snacks
+Milk Powder|400|40|Baby Food & Kids' Snacks
+Oatmeal for Babies|150|60|Baby Food & Kids' Snacks
+Kids' Crackers|50|80|Baby Food & Kids' Snacks
+Mini Muffins|70|50|Baby Food & Kids' Snacks
+Kids' Popcorn|50|50|Baby Food & Kids' Snacks
+Vegetable Puffs|80|40|Baby Food & Kids' Snacks
+Small Cheese Cubes|150|30|Baby Food & Kids' Snacks
+Baby Smoothies|150|50|Baby Food & Kids' Snacks
+Kids' Granola Bars|100|60|Baby Food & Kids' Snacks
+Kids' Chocolates|100|50|Baby Food & Kids' Snacks
+Baby Porridge|200|40|Baby Food & Kids' Snacks
+Cold Drinks (Soda)|50|500|Drinks
+Juice (Packaged)|100|300|Drinks
+Energy Drinks|120|150|Drinks
+Tea|400|100|Drinks
+Coffee|500|80|Drinks
+Milkshakes|100|50|Drinks
+Hot Chocolate|600|30|Drinks
+Mineral Water|20|500|Drinks
+Flavored Water|40|200|Drinks
+Smoothies|150|80|Drinks
+Lemonade|50|100|Drinks
+Coconut Water|40|150|Drinks
+Iced Tea|80|100|Drinks
+Herbal Teas|400|50|Drinks
+Espresso Shots|200|50|Drinks
+Protein Shakes|150|80|Drinks
+Green Tea|500|70|Drinks
+Fruit Punch|100|40|Drinks
+Tonic Water|70|60|Drinks
+Kombucha|200|40|Drinks
+Apple|150|10|Fruits
+Banana|50|20|Fruits
+Orange|80|15|Fruits
+Mango|120|12|Fruits
+Grapes|90|10|Fruits
+Pineapple|100|8|Fruits
+Watermelon|40|25|Fruits
+Papaya|60|18|Fruits
+Strawberry|250|5|Fruits
+Guava|70|10|Fruits
+Blueberry|400|3|Fruits
+Pear|130|8|Fruits
+Peach|140|6|Fruits
+Cherry|300|5|Fruits
+Kiwi|200|4|Fruits
+Pomegranate|150|9|Fruits
+Avocado|250|5|Fruits
+Lychee|180|7|Fruits
+Dragon Fruit|350|3|Fruits
+Raspberry|400|4|Fruits
+Tomato|30|20|Vegetables
+Potato|20|25|Vegetables
+Carrot|40|15|Vegetables
+Broccoli|120|5|Vegetables
+Spinach|30|10|Vegetables
+Cauliflower|50|8|Vegetables
+Cucumber|30|12|Vegetables
+Eggplant|40|15|Vegetables
+Green Beans|70|10|Vegetables
+Onion|25|20|Vegetables
+Peas|60|8|Vegetables
+Bell Pepper|80|7|Vegetables
+Zucchini|70|6|Vegetables
+Pumpkin|30|10|Vegetables
+Radish|20|12|Vegetables
+Bitter Gourd|50|8|Vegetables
+Turnip|40|9|Vegetables
+Cabbage|30|10|Vegetables
+Lettuce|50|5|Vegetables
+Beetroot|40|8|Vegetables

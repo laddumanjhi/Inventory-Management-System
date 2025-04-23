@@ -1,0 +1,21 @@
+VEGETABLES:
+Tomato: Quantity = 20kg, Price = ₹30/kg
+Potato: Quantity = 25kg, Price = ₹20/kg
+Carrot: Quantity = 15kg, Price = ₹40/kg
+Broccoli: Quantity = 5kg, Price = ₹120/kg
+Spinach: Quantity = 10kg, Price = ₹30/kg
+Cauliflower: Quantity = 8kg, Price = ₹50/kg
+Cucumber: Quantity = 12kg, Price = ₹30/kg
+Eggplant: Quantity = 15kg, Price = ₹40/kg
+Green Beans: Quantity = 10kg, Price = ₹70/kg
+Onion: Quantity = 20kg, Price = ₹25/kg
+Peas: Quantity = 8kg, Price = ₹60/kg
+Bell Pepper: Quantity = 7kg, Price = ₹80/kg
+Zucchini: Quantity = 6kg, Price = ₹70/kg
+Pumpkin: Quantity = 10kg, Price = ₹30/kg
+Radish: Quantity = 12kg, Price = ₹20/kg
+Bitter Gourd: Quantity = 8kg, Price = ₹50/kg
+Turnip: Quantity = 9kg, Price = ₹40/kg
+Cabbage: Quantity = 10kg, Price = ₹30/kg
+Lettuce: Quantity = 5kg, Price = ₹50/kg
+Beetroot: Quantity = 8kg, Price = ₹40/kg

@@ -1,0 +1,21 @@
+BABY (FOOD & KIDS’ SNACKS):
+1. Baby Cereal: Quantity = 100 packs, Price = ₹200/pack
+2. Infant Formula: Quantity = 50 tins, Price = ₹500/tin
+3. Baby Food Pouches: Quantity = 80 pouches, Price = ₹150/pouch
+4. Baby Snacks: Quantity = 60 packs, Price = ₹100/pack
+5. Kids’ Juice Boxes: Quantity = 100 packs, Price = ₹60/pack
+6. Yogurt for Babies: Quantity = 40 packs, Price = ₹120/pack
+7. Fruit Purees: Quantity = 50 jars, Price = ₹180/jar
+8. Rice Rusks: Quantity = 70 packs, Price = ₹150/pack
+9. Teething Biscuits: Quantity = 60 packs, Price = ₹100/pack
+10. Milk Powder: Quantity = 40kg, Price = ₹400/kg
+11. Oatmeal for Babies: Quantity = 60 packs, Price = ₹150/pack
+12. Kids’ Crackers: Quantity = 80 packs, Price = ₹50/pack
+13. Mini Muffins: Quantity = 50 packs, Price = ₹70/pack
+14. Kids’ Popcorn: Quantity = 50 packs, Price = ₹50/pack
+15. Vegetable Puffs: Quantity = 40 packs, Price = ₹80/pack
+16. Small Cheese Cubes: Quantity = 30 packs, Price = ₹150/pack
+17. Baby Smoothies: Quantity = 50 bottles, Price = ₹150/bottle
+18. Kids’ Granola Bars: Quantity = 60 packs, Price = ₹100/pack
+19. Kids’ Chocolates: Quantity = 50 bars, Price = ₹100/bar
+20. Baby Porridge: Quantity = 40 packs, Price = ₹200/pack

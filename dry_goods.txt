@@ -1,0 +1,21 @@
+DRY GOODS:
+1. Rice: Quantity = 200kg, Price = ₹70/kg
+2. Wheat Flour: Quantity = 150kg, Price = ₹40/kg
+3. Pulses (Lentils): Quantity = 100kg, Price = ₹80/kg
+4. Sugar: Quantity = 100kg, Price = ₹50/kg
+5. Salt: Quantity = 80kg, Price = ₹20/kg
+6. Dry Spices: Quantity = 20kg, Price = ₹300/kg
+7. Cornflakes: Quantity = 100 packs, Price = ₹150/pack
+8. Oats: Quantity = 80kg, Price = ₹120/kg
+9. Pasta: Quantity = 70kg, Price = ₹90/kg
+10. Noodles: Quantity = 150 packs, Price = ₹40/pack
+11. Semolina: Quantity = 50kg, Price = ₹50/kg
+12. Barley: Quantity = 40kg, Price = ₹45/kg
+13. Chickpeas: Quantity = 60kg, Price = ₹80/kg
+14. Millet: Quantity = 50kg, Price = ₹70/kg
+15. Quinoa: Quantity = 30kg, Price = ₹250/kg
+16. Vermicelli: Quantity = 40kg, Price = ₹60/kg
+17. Breadcrumbs: Quantity = 30kg, Price = ₹150/kg
+18. Tapioca: Quantity = 20kg, Price = ₹100/kg
+19. Popcorn Kernels: Quantity = 40kg, Price = ₹80/kg
+20. Dried Beans: Quantity = 60kg, Price = ₹90/kg

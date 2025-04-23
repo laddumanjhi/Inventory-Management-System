@@ -1,0 +1,22 @@
+SNACKS:
+1. Chips: Quantity = 200 packs, Price = ₹20/pack
+2. Biscuits: Quantity = 150 packs, Price = ₹30/pack
+3. Namkeen: Quantity = 80kg, Price = ₹200/kg
+4. Popcorn: Quantity = 100 packs, Price = ₹50/pack
+5. Chocolates: Quantity = 100 bars, Price = ₹100/bar
+6. Candy: Quantity = 50kg, Price = ₹300/kg
+7. Energy Bars: Quantity = 50 packs, Price = ₹200/pack
+8. Nachos: Quantity = 40kg, Price = ₹150/kg
+9. Crackers: Quantity = 60 packs, Price = ₹70/pack
+10. Peanuts: Quantity = 30kg, Price = ₹100/kg
+11. Wafers: Quantity = 100 packs, Price = ₹20/pack
+12. Trail Mix: Quantity = 30kg, Price = ₹250/kg
+13. Pretzels: Quantity = 15kg, Price = ₹300/kg
+14. Salted Cashews: Quantity = 20kg, Price = ₹700/kg
+15. Almonds: Quantity = 50kg, Price = ₹800/kg
+16. Cheese Puffs: Quantity = 40kg, Price = ₹250/kg
+17. Sweet Corn Snack: Quantity = 30 packs, Price = ₹30/pack
+18. Spicy Mixes: Quantity = 25kg, Price = ₹300/kg
+19. Sesame Sticks: Quantity = 20kg, Price = ₹150/kg
+20. Granola Bars: Quantity = 50 packs, Price = ₹100/pack
+

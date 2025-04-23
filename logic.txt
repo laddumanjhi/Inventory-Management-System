@@ -1,0 +1,35 @@
+inventory management system 
+start
+sign up
+login system 
+     |-as admin 
+     |-worker
+     |-as costumer
+     if (admin){
+        allow to see all performance in material and worker details and management
+     }
+
+     if else(worker){
+        devide to 3 catogry
+        1 is amount and celling manager(attempt the information all workers)
+            details of celling products 
+        2 is product manager()
+        3 is normal worker
+     }
+     else(costumer){
+        * create costumer profile
+            |-name
+            |-password (login)
+            |-recovery password get otp (using to randam number)
+        * provide to catogry of product
+            |-food 
+            |-cloth
+            |-body wash product
+            |-other product
+            all product is store in differnt catogry txt file 
+        * buy product (type product name ,quantity(get a amount of type name & quntity to show it ))
+            |- paying the ammount 
+
+     }
+logout
+exit  

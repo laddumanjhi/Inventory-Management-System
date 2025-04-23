@@ -1,0 +1,21 @@
+DRINKS (COLD & HOT):
+1. Cold Drinks (Soda): Quantity = 500 bottles, Price = ₹50/bottle
+2. Juice (Packaged): Quantity = 300 bottles, Price = ₹100/bottle
+3. Energy Drinks: Quantity = 150 cans, Price = ₹120/can
+4. Tea: Quantity = 100kg, Price = ₹400/kg
+5. Coffee: Quantity = 80kg, Price = ₹500/kg
+6. Milkshakes: Quantity = 50L, Price = ₹100/L
+7. Hot Chocolate: Quantity = 30kg, Price = ₹600/kg
+8. Mineral Water: Quantity = 500 bottles, Price = ₹20/bottle
+9. Flavored Water: Quantity = 200 bottles, Price = ₹40/bottle
+10. Smoothies: Quantity = 80L, Price = ₹150/L
+11. Lemonade: Quantity = 100 bottles, Price = ₹50/bottle
+12. Coconut Water: Quantity = 150 bottles, Price = ₹40/bottle
+13. Iced Tea: Quantity = 100 bottles, Price = ₹80/bottle
+14. Herbal Teas: Quantity = 50kg, Price = ₹400/kg
+15. Espresso Shots: Quantity = 50 packs, Price = ₹200/pack
+16. Protein Shakes: Quantity = 80 bottles, Price = ₹150/bottle
+17. Green Tea: Quantity = 70kg, Price = ₹500/kg
+18. Fruit Punch: Quantity = 40 bottles, Price = ₹100/bottle
+19. Tonic Water: Quantity = 60 bottles, Price = ₹70/bottle
+20. Kombucha: Quantity = 40 bottles, Price = ₹200/bottle

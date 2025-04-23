@@ -1,0 +1,22 @@
+FRUITS:
+Apple: Quantity = 10kg, Price = ₹150/kg
+Banana: Quantity = 20kg, Price = ₹50/kg
+Orange: Quantity = 15kg, Price = ₹80/kg
+Mango: Quantity = 12kg, Price = ₹120/kg
+Grapes: Quantity = 10kg, Price = ₹90/kg
+Pineapple: Quantity = 8kg, Price = ₹100/kg
+Watermelon: Quantity = 25kg, Price = ₹40/kg
+Papaya: Quantity = 18kg, Price = ₹60/kg
+Strawberry: Quantity = 5kg, Price = ₹250/kg
+Guava: Quantity = 10kg, Price = ₹70/kg
+Blueberry: Quantity = 3kg, Price = ₹400/kg
+Pear: Quantity = 8kg, Price = ₹130/kg
+Peach: Quantity = 6kg, Price = ₹140/kg
+Cherry: Quantity = 5kg, Price = ₹300/kg
+Kiwi: Quantity = 4kg, Price = ₹200/kg
+Pomegranate: Quantity = 9kg, Price = ₹150/kg
+Avocado: Quantity = 5kg, Price = ₹250/kg
+Lychee: Quantity = 7kg, Price = ₹180/kg
+Dragon Fruit: Quantity = 3kg, Price = ₹350/kg
+Raspberry: Quantity = 4kg, Price = ₹400/kg
+

@@ -1,0 +1,21 @@
+PAPER PRODUCTS (TOILET):
+1. Toilet Paper: Quantity = 200 rolls, Price = ₹30/roll
+2. Tissues: Quantity = 150 packs, Price = ₹20/pack
+3. Paper Towels: Quantity = 120 rolls, Price = ₹40/roll
+4. Napkins: Quantity = 80 packs, Price = ₹25/pack
+5. Hand Towels: Quantity = 50 packs, Price = ₹70/pack
+6. Table Mats (Paper): Quantity = 40 packs, Price = ₹150/pack
+7. Paper Plates: Quantity = 100 packs, Price = ₹50/pack
+8. Paper Cups: Quantity = 100 packs, Price = ₹40/pack
+9. Wrapping Paper: Quantity = 60 rolls, Price = ₹70/roll
+10. Baking Paper: Quantity = 50 rolls, Price = ₹80/roll
+11. Toilet Seat Covers: Quantity = 40 packs, Price = ₹100/pack
+12. Cardstock Sheets: Quantity = 30 packs, Price = ₹150/pack
+13. Disposable Paper Masks: Quantity = 100 packs, Price = ₹50/pack
+14. Sticky Notes: Quantity = 150 packs, Price = ₹30/pack
+15. Envelopes: Quantity = 80 packs, Price = ₹40/pack
+16. Paper Trays: Quantity = 50 packs, Price = ₹100/pack
+17. Food Wraps: Quantity = 40 rolls, Price = ₹120/roll
+18. Cartons: Quantity = 60 pieces, Price = ₹150/piece
+19. Kraft Paper: Quantity = 50 packs, Price = ₹100/pack
+20. Paper Gift Bags: Quantity = 70 packs, Price = ₹80/pack

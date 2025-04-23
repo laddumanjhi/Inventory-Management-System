@@ -1,0 +1,21 @@
+LAUNDRY SUPPLIES:
+1. Laundry Detergent (Powder): Quantity = 80kg, Price = ₹90/kg
+2. Laundry Detergent (Liquid): Quantity = 60L, Price = ₹250/L
+3. Fabric Softener: Quantity = 40L, Price = ₹200/L
+4. Bleach: Quantity = 40L, Price = ₹120/L
+5. Laundry Stain Remover: Quantity = 20L, Price = ₹150/L
+6. Detergent Pods: Quantity = 40 packs, Price = ₹300/pack
+7. Laundry Bars: Quantity = 80kg, Price = ₹70/kg
+8. Oxygen Bleach Powder: Quantity = 25kg, Price = ₹250/kg
+9. Fragrance Boosters: Quantity = 30kg, Price = ₹400/kg
+10. Ironing Spray: Quantity = 40
+11. Laundry Hampers: Quantity = 50 pieces, Price = ₹500/piece
+12. Drying Racks: Quantity = 30 pieces, Price = ₹1,000/piece
+13. Washing Machine Cleaner: Quantity = 40 packs, Price = ₹250/pack
+14. Starch Sprays: Quantity = 30 bottles, Price = ₹150/bottle
+15. Laundry Nets: Quantity = 60 pieces, Price = ₹150/piece
+16. Fabric Shaver: Quantity = 30 pieces, Price = ₹300/piece
+17. Lint Rollers: Quantity = 100 pieces, Price = ₹50/piece
+18. Color Catcher Sheets: Quantity = 40 packs, Price = ₹200/pack
+19. Washing Balls: Quantity = 30 pieces, Price = ₹150/piece
+20. Anti-Microbial Additives: Quantity = 20L, Price = ₹300/L

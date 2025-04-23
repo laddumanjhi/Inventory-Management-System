@@ -1,0 +1,21 @@
+BAKERY PRODUCTS:
+1. Bread: Quantity = 100 loaves, Price = ₹50/loaf
+2. Croissants: Quantity = 50 pieces, Price = ₹40/piece
+3. Muffins: Quantity = 60 pieces, Price = ₹30/piece
+4. Cakes: Quantity = 30kg, Price = ₹500/kg
+5. Cookies: Quantity = 50kg, Price = ₹300/kg
+6. Bagels: Quantity = 40 pieces, Price = ₹35/piece
+7. Doughnuts: Quantity = 40 pieces, Price = ₹40/piece
+8. Pizza Base: Quantity = 20 packs, Price = ₹60/pack
+9. Puff Pastry: Quantity = 15kg, Price = ₹250/kg
+10. Brownies: Quantity = 20kg, Price = ₹400/kg
+11. Buns: Quantity = 80 pieces, Price = ₹25/piece
+12. Breadsticks: Quantity = 30 packs, Price = ₹70/pack
+13. Tarts: Quantity = 10kg, Price = ₹450/kg
+14. Danish Pastries: Quantity = 20 pieces, Price = ₹50/piece
+15. Rolls: Quantity = 40 pieces, Price = ₹25/piece
+16. Cupcakes: Quantity = 30 pieces, Price = ₹40/piece
+17. Flatbread: Quantity = 25kg, Price = ₹60/kg
+18. Pretzels: Quantity = 15kg, Price = ₹300/kg
+19. Scones: Quantity = 20 pieces, Price = ₹30/piece
+20. Biscuits: Quantity = 40 packs, Price = ₹30/pack

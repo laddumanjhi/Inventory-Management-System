@@ -1,0 +1,22 @@
+PERSONAL CARE (BEAUTY):
+1. Shampoo: Quantity = 80 bottles, Price = ₹200/bottle
+2. Conditioner: Quantity = 60 bottles, Price = ₹250/bottle
+3. Soap: Quantity = 200 bars, Price = ₹50/bar
+4. Face Wash: Quantity = 100 bottles, Price = ₹300/bottle
+5. Moisturizer: Quantity = 50 bottles, Price = ₹400/bottle
+6. Lip Balm: Quantity = 120 pieces, Price = ₹100/piece
+7. Deodorant: Quantity = 80 bottles, Price = ₹250/bottle
+8. Body Lotion: Quantity = 50 bottles, Price = ₹350/bottle
+9. Hair Oil: Quantity = 100 bottles, Price = ₹200/bottle
+10. Face Masks: Quantity = 60 packs, Price = ₹150/pack
+11. Hair Serums: Quantity = 40 bottles, Price = ₹400/bottle
+12. Hand Sanitizer: Quantity = 100 bottles, Price = ₹100/bottle
+13. Eye Cream: Quantity = 30 bottles, Price = ₹500/bottle
+14. Nail Polish: Quantity = 80 bottles, Price = ₹150/bottle
+15. Makeup Remover: Quantity = 50 bottles, Price = ₹300/bottle
+16. Body Wash: Quantity = 80 bottles, Price = ₹200/bottle
+17. Sunscreen: Quantity = 50 bottles, Price = ₹350/bottle
+18. Hair Spray: Quantity = 40 bottles, Price = ₹400/bottle
+19. Perfume: Quantity = 30 bottles, Price = ₹600/bottle
+20. Beard Oil: Quantity = 40 bottles, Price = ₹300/bottle
+
